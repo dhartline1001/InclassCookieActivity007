@@ -43,7 +43,7 @@
       <i class="add to cart icon"></i>
       Add to Cart
     </a>
-    <a class="ui right labeled icon button" href="">
+    <a class="ui right labeled icon button" href="addToFavorites.php">
       <i class="heart icon"></i>
       Add to Favorites
     </a>        
