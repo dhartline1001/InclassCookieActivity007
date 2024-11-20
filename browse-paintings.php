@@ -50,7 +50,7 @@ $filter = "All Paintings [Top 20]";
               </div>        
               <div class="extra">
                 <a class="ui icon orange button" href="cart.php?id=<?php echo $work['PaintingID']; ?>"><i class="add to cart icon"></i></a>
-                <a class="ui icon button" href=""><i class="heart icon"></i></a>  
+                <a class="ui icon button" href="addToFavorites.php"?id=<?php echo $work['PaintingID'];?>></a><i class="heart icon"></i></a>  
               </div>        
             </div>      
           </li>
